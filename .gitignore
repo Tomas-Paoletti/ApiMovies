@@ -1,0 +1,124 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.pidb
+*.opendb
+*.VC.opendb
+
+# Rider
+.idea/
+
+# Build Folders
+bin/
+obj/
+out/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Auto-generated files (migrations, scaffolding, etc.)
+Generated_Code/
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+*.psess
+*.pdb
+*.cache
+*.ilk
+*.obj
+
+# Logs
+*.log
+*.tlog
+
+# Config files
+appsettings*.json
+appsettings*.Development.json
+appsettings*.Production.json
+appsettings*.Staging.json
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+
+# User-specific files
+*.rsuser
+*.sln.docstates
+*.sln.ide
+
+# Backup & Report Files
+*_Report.html
+*_Report.xml
+*-2016
+*.backup
+*.bak
+
+# Azure deployment
+.vs/
+.suo
+.publish.xml
+*.pubxml
+*.publishsettings
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+
+# EntityFramework Files
+*.efmodel
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# IIS Logs
+logs/
+*.log
+
+# Windows shortcuts
+*.lnk
+
+# Tooling
+*.dotCover
+*.coverage
+*.coveragexml
+*.coveragejson
+*.teamcity
+*.DS_Store
+*.editorconfig
+*.ncrunch*
+.*_Backup.cs
+.*_UpgradeLog*.htm
+_ReSharper.Caches/
+!.editorconfig
+!.gitattributes
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# npm package files
+node_modules/
+
+# Additional folders for web projects
+wwwroot/
+dist/
+lib/
+public/

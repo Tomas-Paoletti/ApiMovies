@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\infraestructure\\data\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:infraestructure\\data\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\infraestructure\\data\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:infraestructure\\data\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\infraestructure\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:infraestructure\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\infraestructure\\data\\dtos\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:infraestructure\\data\\dtos\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\infraestructure\\data\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:infraestructure\\data\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\infraestructure\\data\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:infraestructure\\data\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\infraestructure\\data\\models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:infraestructure\\data\\models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\domain\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:domain\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\api\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:api\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\domain\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:domain\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\domain\\interfaces\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:domain\\interfaces\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\application\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:application\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\application\\interfaces\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:application\\interfaces\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\api\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:api\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|c:\\users\\tomia\\onedrive\\escritorio\\datawarehouse\\apimovies\\apimovies\\api\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C34442-567F-42C3-9B6D-7A034681B240}|ApiMovies.csproj|solutionrelative:api\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Api\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:12:46.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Dtos\\CreateMovieDto.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Dtos\\CreateMovieDto.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Dtos\\CreateMovieDto.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Dtos\\CreateMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:09:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\MovieActor.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Models\\MovieActor.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\MovieActor.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Models\\MovieActor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:31:22.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Models\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\MovieGenre.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Models\\MovieGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:30:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\Genre.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:46:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Domain\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Domain\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\GenreRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:37:37.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:32:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\Movie.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:31:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\MovieContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\MovieContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvx8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:31:12.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Infraestructure\\Data\\Models\\Actor.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\Models\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:30:42.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Domain\\Repositories\\ActorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\ActorRepository.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Domain\\Repositories\\ActorRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\ActorRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:26:31.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ActorController.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ActorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:19:38.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Domain\\Interfaces\\IActorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IActorRepository.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Domain\\Interfaces\\IActorRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IActorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:13:06.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Application\\Services\\ActorService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ActorService.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Application\\Services\\ActorService.cs",
+              "RelativeToolTip": "Application\\Services\\ActorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:08:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\DirectorController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\DirectorController.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\DirectorController.cs",
+              "RelativeToolTip": "Api\\Controllers\\DirectorController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:03:31.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Api\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Api\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:02:33.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IActorService.cs",
+              "DocumentMoniker": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Application\\Interfaces\\IActorService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IActorService.cs",
+              "ToolTip": "C:\\Users\\tomia\\OneDrive\\Escritorio\\DataWareHouse\\ApiMovies\\ApiMovies\\Application\\Interfaces\\IActorService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IActorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:51:17.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
