@@ -17,6 +17,7 @@ namespace ApiMovies.Domain.Repositories
         public async Task AddAsync(Director director)
         {
             await  _context.Directors.AddAsync(director);
+            await _context.SaveChangesAsync();
 
         }
 

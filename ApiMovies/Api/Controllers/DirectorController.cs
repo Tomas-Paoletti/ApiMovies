@@ -11,6 +11,11 @@ namespace ApiMovies.Api.Controllers
     public class DirectorController : ControllerBase
     {
         private readonly IDirectorService _directorService;
+
+        public DirectorController(IDirectorService directorService)
+        {
+            _directorService = directorService;
+        }
         // GET: api/<DirectorController>
         [HttpGet]
         public async  Task<IActionResult> GetAll()

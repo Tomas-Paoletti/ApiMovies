@@ -1,5 +1,6 @@
 using ApiMovies.Application.Interfaces;
 using ApiMovies.Application.Services;
+using ApiMovies.Application.Utility.Interfaces;
 using ApiMovies.Domain.Interfaces;
 using ApiMovies.Domain.Repositories;
 using ApiMovies.Infraestructure.Data;
@@ -32,6 +33,11 @@ builder.Services.AddScoped<IDirectorService, DirectorService>();
 //Actor
 builder.Services.AddScoped<IActorRepository, ActorRepository>();
 builder.Services.AddScoped<IActorService, ActorService>();
+
+//Movie
+builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+builder.Services.AddScoped<IMovieService, MovieService>();
+builder.Services.AddScoped<IMovieValidationService, MovieValidationService>();
 
 var app = builder.Build();
 //app.UseMiddleware<GlobalExceptionHandlerMiddleware>();
